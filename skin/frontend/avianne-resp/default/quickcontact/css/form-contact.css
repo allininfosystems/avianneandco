@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.form-quick-contact {background:#f8f8f8 url(../images/bg-form.jpg) no-repeat;width:578px;border:1px solid #c5c5c5;padding-left:45px;font-size:12px;	-align:left;}
+.form-quick-contact .response {display:block; }
+.form-quick-contact .title {margin:35px 0 10px 0;color:#15256c; font-weight:normal; font-family:Times; padding-left:60px; font-size:20px;}
+.form-quick-contact .radio{color:#5e8096; font-weight:bold; font-family:arial,helvetica,sans-serif; font-size:13px; padding-bottom:20px;}
+.form-quick-contact .close { float: right; margin: 10px; }
+
+.form-quick-contact .radio .radio-box{width:135px; float:left;}
+.form-quick-contact .radio .radio-check{}
+.form-quick-contact .text{padding:0;float:left;width:90px;line-height:20px;  font-size:11px;}
+.form-quick-contact .input{float:left;width:300px;line-height:20px;}
+.form-quick-contact .text .info-txt{width:100px;padding-bottom:12px;color:#666666;vertical-align:middle;}
+.form-quick-contact .input .textbox{margin-bottom:12px;width:250px;border:1px solid #B6B6B6;}
+.form-quick-contact .capcha .textbox{width:60px;border:1px solid #B6B6B6;}
+.form-quick-contact .capcha .label{float:left;}
+.form-quick-contact #security_image{margin-left:5px;margin-top:1px;}
+.form-quick-contact .capcha{padding-top:10px;color:#15256c;font-weight:normal;font-family:Georgia;margin-bottom:10px}
+.form-quick-contact .hm_content{color:#15256c;font-weight:normal;font-family:Georgia;margin-bottom:10px}
+.form-quick-contact .text-area textarea {border:1px solid #B6B6B6; width: 530px;}
+.form-quick-contact .submit {text-align:right;padding:10px 0 10px 10px;}
+.form-quick-contact .submit input{vertical-align: top;}
+.form-quick-contact .submit a{}
+.form-quick-contact .submit a img{border:none}
+
+.form-quick-contact .button-alt { 
+position: absolute;
+bottom: 30px;
+right: 40px;
+cursor: pointer;
+height: 19px;
+border: 1px solid #406a83;
+margin: -1px 0 0;
+padding: 0 8px;
+font: bold 12px/19px Arial, Helvetica, sans-serif;
+background: #91c1cb url(../../images/bkg_btn2.gif) 0 100% repeat-x;
+white-space: nowrap;
+color: #fff;
+}
+
+@media (max-width: 425px) {
+    #modalwindow #dialog {
+	background-color: transparent;
+	min-width: initial;
+	max-width: 100%;
+    }
+    .form-quick-contact {
+	width: 90%;
+	margin: 0 0 0 3.5%;
+	padding: 0 0 0 2%;
+    }
+    .form-quick-contact .text-area textarea {
+	width: 100%;
+    }
+    .form-quick-contact .text {
+	width: 30%;/* 80px;*/
+    }
+    .form-quick-contact .input {
+	width: 70%;
+    }
+    .form-quick-contact .input .textbox {
+	width: 95%;
+    }
+    .form-quick-contact .capcha {
+	/*overflow: hidden;*/
+    }
+    .form-quick-contact .submit {
+	margin-top: 3em;
+    }
+}

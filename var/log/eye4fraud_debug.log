@@ -1,0 +1,591 @@
+2017-10-11T09:22:53+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:23:49+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1,"100031810":1,"100031807":1,"100031808":1,"100031805":1,"100031803":1,"100031802":1,"100031799":1,"100031798":1,"100031796":1,"100031795":1,"100031794":1,"100031792":1,"100031789":1,"100031788":1,"100031787":1,"100031786":1,"100031784":1,"100031783":1,"100031782":1,"100031779":1,"100031774":1,"100031771":1,"100031770":1,"100031769":1,"100031767":1,"100031764":1,"100031762":1,"100031761":1,"100031760":1,"100031757":1,"100031755":1,"100031752":1,"100031743-1":0,"100031748":1,"100031746":1,"100031743":1,"100031742":1,"100031740":1,"100031739":1,"100031737":1,"100031736":1,"100031735":1,"100031733":1,"100031730":1,"100031726":1,"100031728":1,"100031727":1,"100031724":1,"100031723":1,"100031722":1,"100031721":1,"100031719":1,"100031718":1,"100031716":1,"100031715":1,"100031714":1,"100031712":1,"100031630":1,"100031709":1,"100031708":1,"100031670":1,"100031700":1,"100031699":1,"100031695":1,"100031694":1,"100031693":1,"100031692":1,"100031690":1,"100031687":0,"100031683":1,"100031682":1,"100031677":0,"100031676":1,"100031649":0,"100031675":1,"100031635":1,"100031671":1,"100031669":1,"100031666":1,"100031665":1,"100031661":1,"100031658":1,"100031656":1,"100031655":0,"100031654":1,"100031646":1,"100031653":1,"100031652":1,"100031645":1,"100031642":1,"100031641":1,"100031639":1,"100031636":1,"100031633":1,"100031632":0,"100031629":1,"100031628":1,"100031627":1,"100031626":1,"100031624":1,"100031623":1,"100031619":1,"100031616":1,"100031614":1,"100031609":1,"100031606":1,"100031605":1,"100031604":1,"100031602":1,"100031600":1,"100031599":1,"100031597":1,"100031595":1,"100031592":1,"100031593":1,"100031591":0,"100031590":1,"100031589":1,"100031588":1,"100031587":1,"100031586":1,"100031585":1,"100031582":1,"100031579":1,"100031578":1,"100031573":1,"100031571":0,"100031569":0,"100031565":1,"100031564":1,"100031563":1,"100031559":1,"100031557":1,"100031556":1,"100031555":1,"100031553":1,"100031552":0,"100031550":1,"100031548":1,"100031542":0,"100031538":1,"100031535":1,"100031531":1,"100031529":1,"100031527":1,"100031525":1,"100031521":1,"100031520":1,"100031517":1,"100031516":1,"100031514":1,"100031513":1,"100031512":1,"100031509":1,"100031506":1,"100031505":1,"100031504":1,"100031501":1,"100031480":1,"100031498":1,"100031489":1,"100031495":1,"100031494":1,"100031492":1,"100031491":1,"100031488":1,"100031484":1,"100031483":1,"100031482":1,"100031479":1,"100031477":1,"100031476":1,"100031474":1,"100031472":1,"100031471":1,"100031470":1,"100031469":1,"100031468":1,"100031465":1,"100031451":0,"100031461":1,"100031458":1,"100031455":1,"100031454":1,"100031453":1,"100031452":1,"100031449":1,"100031448":1,"100031445":1,"100031441":1,"100031442":1,"100031439":1,"100031438":1,"100031436":1,"100031435":1,"100031434":1,"100031433":0,"100031430":1,"100031429":1,"100031428":1,"100031427":1,"100031426":1,"100031425":0,"100031424":0,"100031422":1,"100031421":1,"100031420":1,"100031418":1,"100031413":1,"100031410":1,"100031390":1,"100031404":1,"100031402":1,"100031401":1,"100031398":1,"100031397":1,"100031396":1,"100031395":1,"100031394":1,"100031391":1,"100031389":1,"100031388":1,"100031387":1,"100031386":1,"100031384":1,"100031383":1,"100031380":1,"100031377":1,"100031375":1,"100031374":1,"100031370":1,"100031368":1,"100031366":1,"100031364":1,"100031363":1,"100031361":0,"100031359":1,"100031360":1,"100031358":1,"100031357":1,"100031355":1,"100031353":1,"100031352":1,"100031351":1,"100031350":1,"100031349":1,"100031348":0,"100031347":1,"100031345":1,"100031343":1,"100031341":0,"100031337":1,"100031336":1,"100031333":1,"100031331":1,"100031330":1,"100031328":1,"100031326":1,"100031323":1,"100031322":1,"100031321":1,"100031320":1,"100031319":1,"100031316":1,"100031314":1,"100031313":1,"100031312":1,"100031311":1,"100031309":1,"100031308":1,"100031307":1,"100031305":1,"100031302":1,"100031301":1,"100031299":1,"100031297":0,"100031296":1,"100031295":1,"100031294":1,"100031293":1,"100031292":1,"100031285":0,"100031289":1,"100031284":1,"100031283":1,"100031281":1,"100031279":1,"100031278":1,"100031277":1,"100031274":1,"100031273":1,"100031269":1,"100031268":1,"100031267":1,"100031265":1,"100031260":1,"100031259":1,"100031257":1,"100031256":1,"100031255":1,"100031254":1,"100031249":1,"100031247":1,"100031245":0,"100031243":1,"100031242":1,"100031241":1,"100031240":0,"100031238":1,"100031236":1,"100031235":1,"100031233":1,"100031227":1,"100031226":1,"100031224":1,"100031223":1,"100031220":1,"100031218":0,"100031216":1,"100031215":1,"100031213":1,"100031211":1,"100031210":1,"100031208":1,"100031207":1,"100031206":1,"100031205":0,"100031204":1,"100031202":1,"100031200":1,"100031198":0,"100031197":1,"100031196":1,"100031194":1,"100031193":1,"100031192":1,"100031189":1,"100031184":1,"100031181":1,"100031179":1,"100031176":1,"100031174":1,"100031172":1,"100031171":1,"100031170":1,"100031165":1,"100031164":1,"100031163":1,"100031162":1,"100031160":1,"100031159":1,"100031158":1,"100031157":1,"100031156":1,"100031154":1,"100031151":1,"100031150":1,"100031145":1,"100031144":1,"100031140":1,"100031138":1,"100031137":1,"100031136":1,"100031135":1,"100031134":1,"100031133":1,"100031132":1,"100031131":1,"100031127":1,"100031126":1,"100031125":1,"100031123":1,"100031122":1,"100031119":1,"100031118":1,"100031117":1,"100031115":1,"100031114":1,"100031110":1,"100031100":1,"100031106":1,"100031105":1,"100031103":1,"100031102":1,"100031101":1,"100031097":1,"100031094":1,"100031093":1,"100031092":1,"100031090":1,"100031088":1,"100031087":1,"100031086":1,"100031084":1,"100031081":1,"100031080":1,"100031079":1,"100031078":1,"100031076":1,"100031074":1,"100031073":1,"100031071":1,"100031070":1,"100031068":1,"100031064":1,"100031063":1,"100031062":1,"100031060":1,"100031059":1,"100031058":1,"100031056":1,"100031053":1,"100031050":1,"100031049":1,"100031048":1,"100031047":1,"100031046":1,"100031045":0,"100031041":1,"100031038":1,"100031036":1,"100031035":1,"100031032":1,"100031031":1,"100031029":1,"100031028":1,"100031027":1,"100031026":1,"100031025":1,"100031024":1,"100031023":1,"100031022":1,"100031021":1,"100031020":1,"100031017":1,"100031015":1,"100031012":1,"100031011":1,"100031007":1,"100031005":1,"100031002":1,"100031001":1,"100030999":1,"100030997":1,"100030995":1,"100030992":1,"100030985":1,"100030988":1,"100030987":1,"100030982":1,"100030980":1,"100030978":1,"100030977":1,"100030975":1,"100030976":1,"100030974":1,"100030970":1,"100030967":1,"100030966":1,"100030963":1,"100030964":1,"100030961":1,"100030960":1,"100030959":1,"100030958":1,"100030957":1,"100030955":1,"100030953":1,"100030952":1,"100030951":1,"100030949":1,"100030947":1,"100030945":1,"100030942":1,"100030940":1,"100030939":1,"100030937":1,"100030936":1,"100030935":1,"100030931":1,"100030932":1,"100030903":1,"100030926":1,"100030925":1,"100030924":1,"100030921":1,"100030917":1,"100030916":1,"100030914":1,"100030911":1,"100030910":1,"100030909":1,"100030907":1,"100030904":1,"100030900":1,"100030897":1,"100030896":1,"100030895":1,"100030894":1,"100030893":1,"100030892":1,"100030890":1,"100030887":1,"100030884":1,"100030881":1,"100030880":1,"100030878":1,"100030877":1,"100030876":1,"100030871":1,"100030870":1,"100030869":1,"100030866":1,"100030860":1,"100030859":1,"100030857":1,"100030856":1,"100030853":1,"100030851":1,"100030850":1,"100030849":1,"100030848":1,"100030847":1,"100030840":1,"100030839":1,"100030838":1,"100030837":1,"100030836":1,"100030834":1,"100030833":1,"100030831":1,"100030830":1,"100030827":1,"100030826":1,"100030825":1,"100030822":1,"100030819":1,"100030818":1,"100030816":1,"100030815":1,"100030810":1,"100030809":1,"100030808":1,"100030805":1,"100030803":1,"100030801":1,"100030797":1,"100030796":1,"100030795":1,"100030794":1,"100030792":1,"100030791":1,"100030789":1,"100030788":1,"100030785":1,"100030783":1,"100030778":0,"100030777":1,"100030775":1,"100030773":1,"100030772":1,"100030771":1,"100030770":1,"100030768":1,"100030767":1,"100030765":1,"100030764":1,"100030763":1,"100030762":1,"100030760":1,"100030758":1,"100030755":1,"100030753":1,"100030752":1,"100030741":1,"100030750":1,"100030749":1,"100030748":1,"100030724":1,"100030747":1,"100030745":1,"100030743":1,"100030742":1,"100030738":1,"100030737":1,"100030735":1,"100030734":1,"100030732":1,"100030728":1,"100030727":1,"100030721":1,"100030716":1,"100030714":1,"100030712":1,"100030713":1,"100030709":1,"100030707":1,"100030705":1,"100030704":1,"100030702":1,"100030700":1,"100030699":1,"100030698":1,"100030697":1,"100030696":1,"100030694":1,"100030693":1,"100030692":0,"100030690":1,"100030665":1,"100030688":1,"100030669":1,"100030686":1,"100030683":1,"100030679":1,"100030677":1,"100030672":1,"100030676":1,"100030674":1,"100030673":1,"100030671":1,"100030667":1,"100030666":1,"100030648":1,"100030661":1,"100030660":1,"100030659":1,"100030658":1,"100030657":1,"100030656":1,"100030655":1,"100030652":0,"100030651":1,"100030649":0,"100030647":1,"100030646":1,"100030645":1,"100030640":1,"100030638":1,"100030634":1,"100030632":1,"100030631":1,"100030629":1,"100030627":1,"100030626":1,"100030623":1,"100030620":1,"100030619":1,"100030618":1,"100030613":1,"100030612":1,"100030611":1,"100030610":1,"100030607":1,"100030609":1,"100030606":1,"100030604":1,"100030603":1,"100030602":1,"100030601":1,"100030597":1,"100030594":1,"100030593":1,"100030446":1,"100030588":1,"100030584":1,"100030581":1,"100030580":1,"100030579":1,"100030578":1,"100030577":1,"100030576":1,"100030574":1,"100030570":1,"100030568":1,"100030567":1,"100030566":1,"100030564":1,"100030562":1,"100030560":1,"100030557":1,"100030553":1,"100030551":1,"100030428":1,"100030548":0,"100030545":0,"100030544":1,"100030541":1,"100030540":1,"100030539":1,"100030538":1,"100030537":1,"100030534":1,"100030532":1,"100030531":1,"100030528":1,"100030477":0,"100030524":1,"100030523":1,"100030522":1,"100030521":1,"100030520":1,"100030519":1,"100030517":1,"100030514":1,"100030512":1,"100030511":0,"100030510":1,"100030509":1,"100030508":1,"100030507":1,"100030506":1,"100030505":1,"100030504":1,"100030503":1,"100030502":1,"100030500":1,"100030499":1,"100030496":1,"100030494":1,"100030493":1,"100030491":1,"100030485":1,"100030484":1,"100030480":1,"100030481":1,"100030479":1,"100030476":1,"100030475":1,"100030473":1,"100030472":1,"100030470":1,"100030469":1,"100030466":1,"100030464":1,"100030465":1,"100030463":1,"100030462":1,"100030460":1,"100030459":1,"100030458":1,"100030457":1,"100030454":1,"100030453":1,"100030452":1,"100030451":1,"100030450":1,"100030448":1,"100030445":1,"100030444":1,"100030441":1,"100030439":1,"100030438":1,"100030437":1,"100030434":1,"100030433":1,"100030432":1,"100030431":1,"100030429":1,"100030427":1,"100030377":1,"100030423":1,"100030422":1,"100030418":1,"100030417":1,"100030415":1,"100030413":1,"100030406":1,"100030402":1,"100030397":1,"100030396":1,"100030393":1,"100030395":1,"100030394":1,"100030392":1,"100030390":1,"100030389":1,"100030387":1,"100030385":1,"100030384":1,"100030383":1,"100030382":1,"100030380":1,"100030375":1,"100030374":1,"100030372":1,"100030370":1,"100030369":1,"100030368":1,"100030367":1,"100030364":1,"100030363":1,"100030362":1,"100030361":1,"100030360":0,"100030359":1,"100030358":1,"100030357":1,"100030354":1,"100030353":1,"100030351":1,"100030347":1,"100030346":1,"100030345":1,"100030343":1,"100030342":1,"100030341":1,"100030339":1,"100030336":1,"100030333":1,"100030331":1,"100030322":1,"100030330":1,"100030328":1,"100030326":1,"100030324":1,"100030323":1,"100030320":1,"100030318":1,"100030317":1,"100030313":1,"100030311":1,"100030310":1,"100030308":1,"100030305":1,"100030303":1,"100030302":1,"100030301":1,"100030300":1,"100030299":1,"100030292":1,"100030291":1,"100030287":1,"100030286":1,"100030284":1,"100030283":1,"100030281":1,"100030277":1,"100030276":1,"100030275":1,"100030258":1,"100030273":1,"100030270":1,"100030269":1,"100030267":1,"100030266":1,"100030209":1,"100030265":1,"100030260":1,"100030259":1,"100030239":1,"100030256":1,"100030255":1,"100030168":1,"100030254":1,"100030253":1,"100030252":1,"100030251":1,"100030249":1,"100030248":1,"100030246":1,"100030245":1,"100030244":1,"100030242":1,"100030237":1,"100030238":1,"100030234":1,"100030233":1,"100030232":1,"100030230":0,"100030228":1,"100030224":1,"100030223":0,"100030221":1,"100030217":1,"100030216":1,"100030215":1,"100030214":1,"100030208":1,"100030207":1,"100030206":1,"100030205":1,"100030204":1,"100030199":0,"100030197":1,"100030192":1,"100030191":1,"100030188":1,"100030184":1,"100030176":0,"100030175":1,"100030172":1,"100030171":1,"100030170":1,"100030169":1,"100030167":1,"100030161":1,"100030160":1,"100030159":1,"100030155":1,"100030154":1,"100030152":1,"100030151":1,"100030150":1,"100030149":1,"100030144":1,"100030143":1,"100030141":1,"100030140":1,"100030132":1,"100030129":1,"100030128":1,"100030126":1,"100030125":1,"100030124":1,"100030123":1,"100030121":1,"100030116":1,"100030112":1,"100030110":1,"100030109":1,"100030105":1,"100030103":1,"100030102":1,"100030099":0,"100030097":1,"100030088":1,"100030095":1,"100030093":0,"100030091":1,"100030085":1,"100030087":1,"100030084":1,"100030077":1,"100030076":1,"100030075":1,"100030072":1,"100030071":1,"100030070":1,"100030069":1,"100030066":1,"100030065":1,"100030064":1,"100030062":0,"100030061":1,"100030060":1,"100030059":1,"100030058":1,"100030057":1,"100030056":1,"100030055":1,"100030053":1,"100030051":1,"100030050":1,"100030049":1,"100030048":1,"100030047":1,"100030043":1,"100030039":1,"100030037":1,"100030036":1,"100030034":0,"100030032":1,"100030030":1,"100030029":0,"100030028":1,"100030027":1,"100030026":1,"100030025":1,"100030024":1,"100030023":1,"100030021":1,"100030020":1,"100030019":1,"100030017":1,"100030014":1,"100030013":1,"100030012":1,"100030011":1,"100030009":1}
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031743-1
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031743-1</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031687
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031687</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031677
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031677</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031649
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031649</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031655
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031655</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031632
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031632</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031591
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031591</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031571
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031571</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031569
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031569</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031552
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031552</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031542
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031542</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031451
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031451</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031433
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031433</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031425
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031425</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031424
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031424</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031361
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031361</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031348
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031348</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031341
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031341</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031297
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031297</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031285
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031285</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031245
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031245</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031240
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031240</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031218
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031218</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031205
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031205</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031198
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031198</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100031045
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100031045</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030778
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030778</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030692
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030692</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030652
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030652</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030649
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030649</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030548
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030548</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030545
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030545</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030477
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030477</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030511
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030511</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030360
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030360</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030230
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030230</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030223
+)
+
+2017-10-11T09:23:49+00:00 DEBUG (7): Response:
+2017-10-11T09:23:49+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030223</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:49+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:49+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:49+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:49+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030199
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030199</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030176
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030176</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030099
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030099</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030093
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030093</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030062
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030062</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030034
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030034</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:23:50+00:00 DEBUG (7): Sendig post:
+2017-10-11T09:23:50+00:00 DEBUG (7): Array
+(
+    [ApiLogin] => Avianneimport
+    [ApiKey] => TuY5EACHOFdzziHIp9uo3c93
+    [Action] => getOrderStatus
+    [OrderNumber] => 100030029
+)
+
+2017-10-11T09:23:50+00:00 DEBUG (7): Response:
+2017-10-11T09:23:50+00:00 DEBUG (7): <response><keyvalue><key>OrderNumber</key><value>100030029</value></keyvalue><keyvalue><key>StatusCode</key><value>E</value></keyvalue><keyvalue><key>Description</key><value> No Order</value></keyvalue></response>
+2017-10-11T09:23:50+00:00 DEBUG (7): === E4F Observer::send() Error, $response NOT ok ===
+2017-10-11T09:23:50+00:00 DEBUG (7): Code: 200
+2017-10-11T09:25:01+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:27:16+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:28:13+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:31:07+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:32:27+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:35:04+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:39:00+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:47:57+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T09:48:34+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:02:48+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:03:50+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:06:28+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:06:42+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:06:58+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:07:54+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:08:04+00:00 DEBUG (7): {"100031848":1,"100031846":1,"100031844":1,"100031843":1,"100031842":1,"100031840":1,"100031839":1,"100031838":1,"100031834":1,"100031833":1,"100031829":1,"100031828":1,"100031826":1,"100031819":1,"100031818":1,"100031816":1,"100031814":1,"100031813":1,"100031811":1,"100031741":1}
+2017-10-11T10:09:41+00:00 DEBUG (7): {"100031810":1,"100031807":1,"100031808":1,"100031805":1,"100031803":1,"100031802":1,"100031799":1,"100031798":1,"100031796":1,"100031795":1,"100031794":1,"100031792":1,"100031789":1,"100031788":1,"100031787":1,"100031786":1,"100031784":1,"100031783":1,"100031782":1,"100031779":1}

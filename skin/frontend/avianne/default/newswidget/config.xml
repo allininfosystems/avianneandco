@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<regkey>0694aee63dc457767d9efc7f5e70d1fe</regkey>
+	<widget_width>930</widget_width>
+	<widget_height>400</widget_height>
+	<menu_width>240</menu_width>
+	<menu_height>100</menu_height>
+	
+	<button_text_color>#ffffff</button_text_color>
+	<button_first_gradient_color>#808182</button_first_gradient_color>
+	<button_second_gradient_color>#AFAEAF</button_second_gradient_color>
+	<button_selected_first_gradient_color>#90c43c</button_selected_first_gradient_color>
+	<button_selected_second_gradient_color>#478831</button_selected_second_gradient_color>
+	<button_gradient_angle>90</button_gradient_angle>
+	<link_target>_target</link_target>
+	<autoslide_delay>5000</autoslide_delay>
+	
+	
+	<border_color>#000000</border_color>
+	<border_thickness>1</border_thickness>	
+	
+	<button_image_border_color>#ffffff</button_image_border_color>
+	
+	<messagebox_color>#000000</messagebox_color>
+	<messagebox_alpha>0.5</messagebox_alpha>
+	<messagebox_textcolor>#ffffff</messagebox_textcolor>	
+	
+	<panels>
+		<panel>
+			<menu_title>Cool widget</menu_title>
+			<menu_text>Check out our cool newswidgets which can be customized alot!</menu_text>
+			<image>/skin/frontend/default/proclean_green/newswidget/frontpage/images/image01.jpg</image>
+			<title>The coolest newswidget for our Magento-templates.</title>
+			<text>Check out all our widgets on our webshop at silverthemes.com!</text>
+			<link>http://www.silverthemes.com/magento-widgets</link>
+		</panel>
+
+		<panel>
+			<menu_title>New Studio Hybrid</menu_title>
+			<menu_text>Dells most unique, stylish, and conscientious desktop PC.</menu_text>
+			<image>/skin/frontend/default/proclean_green/newswidget/frontpage/images/image02.jpg</image>
+			<title>Introducing the NEW Studio Hybrid</title>
+			<text>Dells most unique, stylish, and conscientious desktop PC. Designed to fit into your environment while protecting the environment.</text>
+			<link>http://www.silverthemes.com</link>
+		</panel>
+		
+		<panel>
+			<menu_title>Only $ for this</menu_title>
+			<menu_text>We've developed this widget as an addon to our popular templates. </menu_text>
+			<image>/skin/frontend/default/proclean_green/newswidget/frontpage/images/image03.jpg</image>
+			<title>Just remember that this widget is an addon with lots of customization</title>
+			<text>For only $ this widget can be installed on your webshop.</text>
+			<link>http://www.silverthemes.com</link>
+		</panel>
+
+		<panel>
+			<menu_title>Best templates</menu_title>
+			<menu_text>We've developed this widget as an addon to our popular templates.</menu_text>
+			<image>/skin/frontend/default/proclean_green/newswidget/frontpage/images/image04.jpg</image>
+			<title>Just remember that this widget is an addon with lots of customization</title>
+			<text>For only $ this widget can be installed on your webshop.</text>
+			<link>http://www.silverthemes.com</link>
+		</panel>					
+		
+	</panels>
+
+</config>

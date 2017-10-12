@@ -1,0 +1,235 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it 
+is easier to update the theme. Simply copy an existing style 
+from style.css to this file, and modify it to your liking. */
+
+html {
+	background: url(images/bkgimgnew.jpg) 0 100% repeat-x;
+	background-position: top;
+	display: block;
+	background-color: white;
+	font: 11px/1.5 "Verdana","Serif";
+	height: auto;
+	min-height: 100%;
+}
+body {
+	background: url(images/bkgimgnew_foot.jpg) 0 100% repeat-x;
+	background-position: bottom;
+	display: block;
+	height: auto;
+	min-height: 100%;
+}
+#footer {
+	background: none;
+	border: 0;
+	padding-bottom: 110px;
+}
+#header-wrap {
+	background: none;
+}
+#header {
+	background: url(images/headerimgnew.jpg) 0 0 no-repeat;
+	height: 98px;
+	padding: 0;
+}
+h4#logo {
+	float: left;
+	width: 400px;
+	padding-top: 0px;
+	margin: 0px;
+}
+h4#logo span {
+	display: none;
+}
+h4#logo a {
+	width: 325px;
+	height: 95px;
+	display: block;
+}
+.nypcj {
+	position: relative;
+	top: 77px;
+	right: 20px;
+	color: white;
+	font-size: 12px;
+	font-variant: small-caps;
+	font-family: times,"Times New Roman";
+}
+.chat-phones {
+	float: right;
+	margin-top: 27px;
+}
+.chat-phones #LiveChat_1317342923 {
+	width: 146px;
+	height: 38px;
+	display: block;
+	padding-left: 7px;
+}
+.chat-phones #LiveChat_1317342923_button {
+	margin: 0;
+}
+.chat-phones ul {
+	color: white;
+	font-size: 20px;
+	line-height: 22px;
+	font-family: times,"Times New Roman";
+}
+.col-full{
+	width: 1000px;
+}
+#navigation {
+	padding: 15px 25px 20px;
+	width: 950px;
+	background-color: #fff;
+	border: 0;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+}
+#navigation .col-full {
+	width: 950px;
+}
+#featured-slider {
+	width: 950px;
+	background-color: #fff;
+	padding: 15px 25px 0;
+}
+#sliderWrap {
+	height: 285px;
+}
+.single #sliderWrap {
+	margin: 0;
+}
+.middle-container {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background: url(images/bkg_shadow_.png) 50% 0 repeat-y;
+}
+#content {
+	background-color: #fff;
+	padding: 22px 25px 40px;
+	width: 950px;
+}
+#menu-top-nav-menu {
+	z-index: 99;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 1;
+	float: left;
+}
+#menu-top-nav-menu li {
+	float: left;
+	width: auto;
+	list-style: none;
+	line-height: 1;
+	background: url(images/separator.jpg) 0 50% no-repeat;
+}
+#menu-top-nav-menu li:first-child {
+	background: none;
+}
+#menu-top-nav-menu li a {
+	position: relative;
+	color: #DDD !important;
+	display: block;
+	z-index: 100;
+	text-decoration: none;
+}
+#menu-top-nav-menu li a:hover {color:#fff !important;}
+
+#page-nav {
+	-webkit-border-radius: 5px;
+	-moz-border-radius:5px;
+	border-radius: 5px;
+}
+.entry img, img.thumbnail {
+	border: 0;
+	background: none;
+}
+
+/* Celebrity diamond jewelry page */
+
+.page-template-slider-php .top-head-container {
+	display: none;
+}
+.page-template-slider-php #content {
+	background: #fff url(images/celebrity-bckg.jpg) 50% 0 no-repeat;
+}
+.page-template-slider-php #main {
+	background: url(images/celebrity-bottom-bckg.jpg) 50% 100% no-repeat;
+	padding-bottom: 20px;
+}
+.page-template-slider-php h1.title {
+	color: #15256c;
+	font-size: 34px;
+	font-family: 'Times New Roman', times, 'PT Sans',Arial,sans-serif;
+	font-weight: normal;
+	text-transform: none;
+}
+.page-template-slider-php .brown-line {
+	color: #a64b3e;
+	font-size: 20px;
+	font-family: 'Times New Roman', times, 'PT Sans',Arial,sans-serif;
+	line-height: 1.2;
+	font-variant:small-caps;
+	margin: 0;
+	clear: both;
+}
+.page-template-slider-php .blue-line {
+	color: #15256c;
+	font-size: 34px;
+	font-family: 'Times New Roman', times, 'PT Sans',Arial,sans-serif;
+	line-height: 1;
+	font-variant:small-caps;
+	margin: 0;
+}
+.page-template-slider-php .blue-subline {
+	color: #15256c;
+	font-size: 20px;
+	font-family: 'Times New Roman', times, 'PT Sans',Arial,sans-serif;
+	line-height: 1.2;
+	font-variant:small-caps;
+	margin: 0;
+}
+.page-template-slider-php .left-block,
+.page-template-slider-php .right-block {
+	float: left;
+	width: 430px;
+}
+.page-template-slider-php .left-block {
+	margin: -48px 35px 20px 10px;
+}
+.page-template-slider-php .right-block {
+	margin: -48px 10px 20px 35px;
+}
+.page-template-slider-php .left-block .uds-bb,
+.page-template-slider-php .right-block .uds-bb {
+	margin-left:10px;
+	margin-bottom:30px;
+}
+.page-template-slider-php .left-block .uds-bb-description,
+.page-template-slider-php .right-block .uds-bb-description {
+	position: static;
+	width: auto !important;
+	height: auto !important;
+	background: none;
+	padding-top: 225px;
+	color: #15256c;
+}
+.page-template-slider-php .left-block .uds-bb-description p,
+.page-template-slider-php .right-block .uds-bb-description p {
+	font-size: 20px;
+	font-family: 'Times New Roman', times, 'PT Sans',Arial,sans-serif;
+	line-height: 1.2;
+	font-variant:small-caps;
+}
+.page-template-slider-php .middle-line {
+	position: relative;
+	top: 498px;
+}

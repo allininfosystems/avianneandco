@@ -1,0 +1,216 @@
+/* CSS for left menu */
+#vertnav li .vertnav-cat {
+	display:block;
+	border-bottom:1px dotted gray;
+	padding:3px;
+	width:189px;
+}
+
+#vertnav li a {
+}
+
+#vertnav .inactive .vertnav-cat {
+	background-color:#C0C0C0;
+}
+
+#vertnav .next .vertnav-cat {
+	background-color:#DEDEDE;
+}
+
+#vertnav .prev .vertnav-cat {
+	background-color:#DEDEDE;
+}
+
+#vertnav .first .vertnav-cat {
+}
+
+#vertnav .last .vertnav-cat {
+}
+
+#vertnav .only .vertnav-cat {
+}
+
+#vertnav li.parent .vertnav-cat {
+	background-color:#E0E0E0;
+	font-weight:bold;
+}
+
+#vertnav li.active .vertnav-cat {
+	background-color:#FFFFFF;
+	font-weight:bold;
+}
+
+#vertnav li.inactive .vertnav-cat {
+	font-weight:normal;
+}
+
+#vertnav .level0 .vertnav-cat {
+}
+
+#vertnav .level1 .vertnav-cat {
+	padding-left:10px;
+	width:182px;
+}
+
+#vertnav .level2 .vertnav-cat {
+	padding-left:20px;
+	width:172px;
+}
+
+#vertnav .level3 .vertnav-cat {
+	padding-left:30px;
+	width:162px;
+}
+
+
+.leftmenu{
+	margin-top:10px;
+}
+/* For Default */
+.leftcmsdrop #cms-left { padding:0 20px; font-size:1.1em; }
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+.leftcmsdrop #cms-left li { position:relative; text-align:left; }
+.leftcmsdrop #cms-left li.over { z-index:999; }
+.leftcmsdrop #cms-left a,
+.leftcmsdrop #cms-left a:hover { display:block; line-height:1.3em; text-decoration:none; }
+.leftcmsdrop #cms-left span { display:block; cursor:pointer; white-space:nowrap; }
+.leftcmsdrop #cms-left li ul span {white-space:normal; }
+
+/************ 0 LEVEL  ***************/
+.leftcmsdrop #cms-left li { float:none; }
+.leftcmsdrop #cms-left li.active a { color:#d96708; }
+.leftcmsdrop #cms-left a { float:none; padding:5px 12px 6px 8px; color:#a7c6dd; font-weight:bold; }
+.leftcmsdrop #cms-left li.over a,
+.leftcmsdrop #cms-left a:hover { color:#d96708; }
+
+/************ 1ST LEVEL ************/
+.leftcmsdrop #cms-left ul li,
+.leftcmsdrop #cms-left ul li.active { float:none; margin:0; padding-bottom:1px; background:#ecf3f6 url(../images/nav_divider.gif) repeat-x 0 100%; }
+/*.leftcmsdrop #cms-left ul li.over { background:#d5e4eb url(../images/nav_divider.gif) repeat-x 0 100%; }*/
+.leftcmsdrop #cms-left ul li.last { background:#ecf3f6; padding-bottom:0; }
+
+.leftcmsdrop #cms-left ul a,
+.leftcmsdrop #cms-left ul a:hover { float:none; padding:0; background:none; }
+.leftcmsdrop #cms-left ul li a { font-weight:normal !important; }
+
+/************ 2ND LEVEL ************/
+.leftcmsdrop #cms-left ul { position:absolute; width:15em; top:5px; left:-10000px; border:1px solid #899ba5; }
+
+/* Show menu */
+.leftcmsdrop #cms-left li.over > ul { left:100px; }
+.leftcmsdrop #cms-left li.over > ul li.over > ul { left:100px; }
+.leftcmsdrop #cms-left li.over ul ul { left:-10000px; }
+
+.leftcmsdrop #cms-left ul li a { background:#ecf3f6; }
+.leftcmsdrop #cms-left ul li a:hover { background:#d5e4eb; }
+.leftcmsdrop #cms-left ul li a,
+.leftcmsdrop #cms-left ul li a:hover { color:#2f2f2f !important; }
+.leftcmsdrop #cms-left ul span, .leftcmsdrop #cms-left ul li.last li span { padding:3px 15px 4px 15px;}
+
+/************ 3RD+ LEVEL ************/
+.leftcmsdrop #cms-left ul ul { top:5px; }
+
+/* end leftmenudefault */
+
+/* For Plain */
+
+.cmsplain #cms-left { padding:0 20px; font-size:1.1em; }
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+.cmsplain #cms-left li { position:relative; text-align:left; float:none;}
+.cmsplain #cms-left li.over { z-index:999; }
+.cmsplain #cms-left a,
+.cmsplain #cms-left a:hover { display:block; line-height:1.3em; text-decoration:none; }
+.cmsplain #cms-left span { display:block; cursor:pointer; white-space:nowrap; }
+.cmsplain #cms-left li ul span {white-space:normal; }
+.cmsplain #cms-left li ul span.parent{ font-weight:bold;}
+
+/************ 0 LEVEL  ***************/
+.cmsplain #cms-left li {  }
+.cmsplain #cms-left li.active a { color:#d96708; }
+
+.cmsplain #cms-left a { float:none; padding:5px 12px 6px 8px; color:#a7c6dd; font-weight:bold; }
+.cmsplain #cms-left li.over a,
+.cmsplain #cms-left a:hover { color:#d96708; }
+
+/************ 1ST LEVEL ************/
+ 
+.cmsplain #cms-left ul li,
+.cmsplain #cms-left ul li.active { float:none; margin:0px; padding-bottom:1px; background:none;color:#d96708; }
+
+/*.cmsplain #cms-left ul li.over { background:#d5e4eb url(../images/nav_divider.gif) repeat-x 0 100%; }*/
+.cmsplain #cms-left ul li.last { background:none; padding-bottom:; }
+
+.cmsplain #cms-left ul a,
+.cmsplain #cms-left ul a:hover { float:none; padding:0; background:none;  color:#d96708; }
+
+.cmsplain #cms-left ul li a { font-weight:normal !important; }
+
+/************ 2ND LEVEL ************/
+.cmsplain #cms-left ul { position:relative; width:auto; top:5px; left:10px; border:0px}
+
+/* Show menu */
+.cmsplain #cms-left li.over > ul { left:10px; }
+.cmsplain #cms-left li.over > ul li.over > ul { left:10px; }
+.cmsplain #cms-left li.over ul ul { left:10px; }
+
+.cmsplain #cms-left ul li a { background:none; }
+.cmsplain #cms-left ul li a:hover { background:#d5e4eb;color:#d96708; }
+.cmsplain #cms-left ul li a,
+.cmsplain #cms-left ul li a:hover { color:#2f2f2f !important; }
+
+.cmsplain #cms-left ul span, .cmsplain #cms-left ul li.last li span { padding:3px 15px 4px 15px;}
+
+/************ 3RD+ LEVEL ************/
+.cmsplain #cms-left ul ul { top:5px; }
+/* end leftmenuplain */
+
+/* For Folding */
+.cmsfolding #cms-left { padding:0 10px; font-size:1.1em; }
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+.cmsfolding #cms-left li { position:relative; text-align:left; float:none;}
+.cmsfolding #cms-left li.over { z-index:999; }
+.cmsfolding #cms-left a,
+.cmsfolding #cms-left a:hover { display:block; line-height:1.3em; text-decoration:none; }
+.cmsfolding #cms-left span { display:block; cursor:pointer; white-space:nowrap; }
+.cmsfolding #cms-left li ul span {white-space:normal; }
+.cmsfolding #cms-left li ul span.parent{ font-weight:bold;}
+
+/************ 0 LEVEL  ***************/
+.cmsfolding #cms-left li { padding-bottom:10px;  }
+.cmsfolding #cms-left li a.active { color:#d96708!important; }
+.cmsfolding #cms-left a { float:none; padding:0; color:#2F2F2F; font-weight:bold; }
+.cmsfolding #cms-left li.over a,
+.cmsfolding #cms-left a:hover { color:#d96708; }
+
+/************ 1ST LEVEL ************/
+ 
+.cmsfolding #cms-left ul li,
+.cmsfolding #cms-left ul li.active { float:none; margin:0px; padding-bottom:1px; background:none;color:#d96708; }
+
+/*.cmsfolding #cms-left ul li.over { background:#d5e4eb url(../images/nav_divider.gif) repeat-x 0 100%; }*/
+.cmsfolding #cms-left ul li.last { background:none; padding-bottom:; }
+
+.cmsfolding #cms-left ul a,
+.cmsfolding #cms-left ul a:hover { float:none; padding:0; background:none;  color:#d96708; }
+.cmsfolding #cms-left ul li a { font-weight:normal !important; }
+
+/************ 2ND LEVEL ************/
+.cmsfolding #cms-left ul { position:relative; width:auto; top:5px; left:10px; border:0px}
+
+/* Show menu */
+.cmsfolding #cms-left li.over > ul { left:10px; }
+.cmsfolding #cms-left li.over > ul li.over > ul { left:10px; }
+.cmsfolding #cms-left li.over ul ul { left:10px; }
+
+.cmsfolding #cms-left ul li a { background:none; }
+.cmsfolding #cms-left ul li a:hover { color:#d96708; }
+.cmsfolding #cms-left ul li a{ color:#2f2f2f !important; }
+.cmsfolding #cms-left ul li a:hover { color:#D96708 !important; }
+.cmsfolding #cms-left ul span, .cmsfolding #cms-left ul li.last li span { padding:3px 15px 4px 15px;}
+
+/************ 3RD+ LEVEL ************/
+.cmsfolding #cms-left ul ul { top:5px; }
+/* end leftmenufolding */

@@ -1,0 +1,73 @@
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/osl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @copyright  Copyright (c) 2008 Irubin Consulting Inc. DBA Varien (http://www.varien.com)
+ * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+
+
+#nav a {font-family:Times; }
+
+#nav li ul li a {font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif, Lucida Grande;  font-variant:normal;}
+
+#nav { padding:0 0px;}
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+#nav li { position:relative; text-align:left; padding-top:10px; background url(../images/nav_divider.gif) repeat-x 0 100%;}
+#nav li.over { z-index:999; }
+#nav a,
+#nav a:hover { display:block; line-height:1.3em; text-decoration:none; }
+#nav span { display:block; cursor:pointer; white-space:nowrap; }
+#nav li ul span {white-space:normal; }
+#nav ul li.parent a { background:url(../images/i_nav-parent.gif) 100% 100% no-repeat; }
+#nav ul li.parent li a { background-image:none; url(../images/nav_divider.gif) repeat-x 0 100%;}
+
+/************ 0 LEVEL  ***************/
+#nav li { float:left; padding-top:0px; margin-top:-5px;}
+#nav li.active a { color:#de0000;  }
+#nav a { float:left; padding:6px 20px 6px 1px;  font-weight:normal; color:#ffffff; font-size:20px; font-variant:small-caps; }
+#nav li.over a,
+#nav a:hover { color:#de0000; }
+
+/************ 1ST LEVEL ************/
+#nav ul li,
+#nav ul li.active { float:none; margin:0; padding-bottom:1px; background:#fff url(../images/nav_divider.gif) repeat-x 0 100%; }
+#nav ul li.over { background:#d5e4eb url(../images/nav_divider.gif) repeat-x 0 100%; }
+#nav ul li.last { background:#fff url(../images/nav_divider.gif) repeat-x 0 100%;; padding-bottom:0; border-bottom:1px;}
+
+#nav ul a,
+#nav ul a:hover { float:none; padding:0; background:none; }
+#nav ul li a { font-weight:normal !important; font-size:0.95em; /*font-family:arial;*/ font-color:#15256c;}
+
+/************ 2ND LEVEL ************/
+#nav ul { position:absolute; width:16em; top:25px; left:-10000px; border:1px solid #899ba5; font-variant:none; }
+
+/* Show menu */
+#nav li.over > ul { left:-10px; top:34px;}
+#nav li.over > ul li.over > ul { left:176px; top:-7px;}
+#nav li.over ul ul { left:-10000px; }
+
+#nav ul li a { background:#fff; font-variant:none;}
+#nav ul li a:hover { background-color:#006699; color: #fff !important; font-size:0.95em;}
+#nav ul li a { color:#0066b9 !important; font-size:0.95em;}
+#nav ul span, #nav ul li.last li span { padding:3px 15px 4px 15px;}
+
+/************ 3RD+ LEVEL ************/
+#nav ul ul { top:5px; }
+

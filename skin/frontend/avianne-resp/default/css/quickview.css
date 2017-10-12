@@ -1,0 +1,220 @@
+/* HIGHSLIDE SPECIFIC STYLES */
+.highslideShow {
+	display: none;
+}
+.highslide {
+	cursor: url(../js/graphics/zoomin.cur), pointer;
+    outline: none;
+}
+.highslide-active-anchor img {
+	visibility: hidden;
+}
+
+
+.highslide-wrapper {
+	background: white;
+}
+.highslide-image {
+    border: 0px solid white;
+}
+.highslide-image-blur {
+}
+.highslide-caption {
+    display: none;
+    
+    border: 2px solid white;
+    border-top: none;
+    font-size: 12px;
+    padding: 5px;
+    background-color: white;
+}
+.highslide-loading {
+    display: block;
+	color: black;
+	font-size: 8pt;
+	font-family: sans-serif;
+	font-weight: bold;
+    text-decoration: none;
+	padding: 2px;
+	border: 1px solid black;
+    background-color: white;
+    
+    padding-left: 22px;
+    background-image: url(../js/graphics/loader.white.gif);
+    background-repeat: no-repeat;
+    background-position: 3px 1px;
+}
+a.highslide-credits,
+a.highslide-credits i {
+	display: none;
+    padding: 2px;
+    color: silver;
+    text-decoration: none;
+	font-size: 10px;
+}
+a.highslide-credits:hover,
+a.highslide-credits:hover i {
+    color: white;
+    background-color: gray;
+}
+
+.highslide-move {
+    cursor: move;
+}
+
+.highslide-overlay {
+	display: none;
+}
+
+a.highslide-full-expand {
+	background: url(../js/graphics/graphics/fullexpand.gif) no-repeat;
+	display: block;
+	margin: 0 10px 10px 0;
+	width: 34px;
+	height: 34px;
+}
+
+
+/* Controlbar example */
+.controlbar {	
+	background: url(../js/graphics/controlbar4.gif);
+	width: 167px;
+	height: 34px;
+}
+.controlbar a {	
+	display: block;
+	float: left;
+	/*margin: 0px 0 0 4px;*/	
+	height: 27px;
+}
+.controlbar a:hover {
+	background-image: url(../js/graphics/controlbar4-hover.gif);
+}
+.controlbar .previous {
+	width: 50px;
+}
+.controlbar .next {
+	width: 40px;
+	background-position: -50px 0;
+}
+.controlbar .highslide-move {
+	width: 40px;
+	background-position: -90px 0;
+}
+.controlbar .close {
+	width: 36px;
+	background-position: -130px 0;
+}
+
+/* Styles for the popup */
+.highslide-wrapper {
+	background-color: white;
+}
+.highslide-wrapper .highslide-html-content {
+    width: 750px;
+	height:450px; 
+    padding: 5px;
+	overflow: hidden;
+}
+
+.highslide-wrapper .highslide-header div {
+}
+.highslide-wrapper .highslide-header ul {
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+.highslide-wrapper .highslide-header ul li {
+	display: inline;
+	padding-left: 1em;
+}
+.highslide-wrapper .highslide-header ul li.highslide-previous, .highslide-wrapper .highslide-header ul li.highslide-next {
+	display: none;
+}
+.highslide-wrapper .highslide-header a {
+	font-weight: bold;
+	color: gray;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.highslide-wrapper .highslide-header a:hover {
+	color: black;
+}
+.highslide-wrapper .highslide-header .highslide-move a {
+	cursor: move;
+}
+.highslide-wrapper .highslide-footer {
+	height: 11px;
+}
+.highslide-wrapper .highslide-footer .highslide-resize {
+	float: right;
+	height: 11px;
+	width: 11px;
+	background: url(../js/graphics/resize.gif);
+}
+.highslide-wrapper .highslide-body {
+	text-align: left;
+	padding: 0 20px 10px 20px;
+}
+.highslide-move {
+    cursor: move;
+}
+.highslide-resize {
+    cursor: nw-resize;
+}
+
+.highslide-body .highslideHide, .highslide-body .readMore {
+	display: none;
+}
+
+.highslide-body .description {
+	height: 100%;
+}
+.highslide-body .highslideShow {
+	display: block;
+}
+
+.highslide-wrapper .highslide-body h1 {
+	font-size: 18px;
+}
+.highslide-wrapper .highslide-body .product-img-box {
+	float: left;
+	width: 290px;
+}
+.highslide-wrapper .highslide-body .product-shop {
+	width: 350px;
+}
+.highslide-wrapper .highslide-body .highslideShow {
+	display: block;
+}
+.highslide-wrapper .highslide-body .highslideShow .details {
+	margin: 15px 0 0 0;
+}
+.highslide-wrapper .highslide-body .highslideHide,  .highslide-wrapper .highslide-body .product-attributes, .highslide-wrapper .highslide-body .product-attributes .add-to-cart-box{
+	display: none;
+}
+
+/* Necessary for functionality */
+.highslide-display-block {
+    display: block;
+}
+.highslide-display-none {
+    display: none;
+}
+
+.quickView {
+	position: absolute;
+	padding: 3px 9px;
+	font-size: 12px;
+	top: 20px;
+	left: 10px;
+	text-decoration: none;
+	background: url(../images/bg_quickview.gif) 0 0 no-repeat;
+}
+.quickView:hover {
+	background: url(/*../images/bg_quickview_over.gif*/) 0 0 no-repeat;
+	color: #fff;
+}
+
+
+/* /HIGHSLIDE SPECIFIC STYLES */

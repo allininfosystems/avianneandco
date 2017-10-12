@@ -1,0 +1,17 @@
+@media (max-width: 425px) {
+    .middle-container {
+        width: 100% !important;
+    }
+    .sub-wrapper {
+        border: 0 !important;
+    }
+    .desktop-only {
+        display: none !important;
+    }
+}
+
+@media (min-width: 426px) {
+    .mobile-only {
+        display: none !important;
+    }
+}

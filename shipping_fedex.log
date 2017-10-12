@@ -1,0 +1,1633 @@
+
+2014-12-14T23:59:04+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-14T23:59:04+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 48081
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 20952
+)
+
+2014-12-15T00:03:01+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:03:01+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 23445
+)
+
+2014-12-15T00:05:41+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:05:41+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 25907
+)
+
+2014-12-15T00:06:50+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:06:50+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PARCEL_SELECT
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 750
+                    [Message] => Customer not eligible for  service. 
+                    [LocalizedMessage] => Customer not eligible for  service. 
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 25941
+)
+
+2014-12-15T00:06:50+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:06:50+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 25941
+)
+
+2014-12-15T00:07:22+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:07:22+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PARCEL_SELECT
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 750
+                    [Message] => Customer not eligible for  service. 
+                    [LocalizedMessage] => Customer not eligible for  service. 
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24978
+)
+
+2014-12-15T00:07:22+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:07:22+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24978
+)
+
+2014-12-15T00:08:10+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:08:09+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PARCEL_SELECT
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 750
+                    [Message] => Customer not eligible for  service. 
+                    [LocalizedMessage] => Customer not eligible for  service. 
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24979
+)
+
+2014-12-15T00:08:10+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:08:10+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24979
+)
+
+2014-12-15T00:08:19+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:08:18+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PARCEL_SELECT
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 750
+                    [Message] => Customer not eligible for  service. 
+                    [LocalizedMessage] => Customer not eligible for  service. 
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24679
+)
+
+2014-12-15T00:08:19+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => tH8fKMo3te7KNeTn
+                            [Password] => kxwNTtgWAf9xQSloGDM07ePRS
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 348300563
+                    [MeterNumber] => 104986169
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-12-15T00:08:19+00:00
+                    [PackagingType] => FEDEX_BOX
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 105129
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10036
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 10001
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 348300563
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 105129
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 3
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 105129
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => WARNING
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => WARNING
+                            [Source] => crs
+                            [Code] => 556
+                            [Message] => There are no valid services available. 
+                            [LocalizedMessage] => There are no valid services available. 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 819
+                            [Message] => The origin state/province code has been changed.  
+                            [LocalizedMessage] => The origin state/province code has been changed.  
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Severity] => NOTE
+                            [Source] => crs
+                            [Code] => 820
+                            [Message] => The destination state/province code has been changed.  
+                            [LocalizedMessage] => The destination state/province code has been changed.  
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 24679
+)
+
